@@ -6,18 +6,7 @@ $(document).ready(function(){
       artist:"BGM maker",
       mp3:"https://docs.google.com/uc?export=download&id=1j3xowODcfS4oI_iwvjFNhJae7UjQAGef",
       poster: "https://i.ytimg.com/vi/zpJzzQ_DGjQ/maxresdefault.jpg"
-    },{
-      title:"Cro Magnon Man",
-      artist:"The Stark Palace",
-      mp3:"http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3",
-      oga:"http://www.jplayer.org/audio/ogg/TSP-01-Cro_magnon_man.ogg",
-      poster: "https://i.imgur.com/lXvsuBu.png"
-    },{
-      title:"Bubble",
-      m4a: "http://www.jplayer.org/audio/m4a/Miaow-07-Bubble.m4a",
-      oga: "http://www.jplayer.org/audio/ogg/Miaow-07-Bubble.ogg",
-      poster: "https://i.imgur.com/klJKSVZ.jpg"
-  }];
+    }];
   
   var cssSelector = {
     jPlayer: "#jquery_jplayer",
